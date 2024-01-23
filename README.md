@@ -3,7 +3,7 @@
 This study examines data from Kaggle on customer demographics for the purpose of conducting a segmentation analysis to guide personalization strategy. Segmentation analysis is derived in Python by applying an unstructured learning technique called K-Means Clustering with Principal Component Analysis (PCA) to identify and segment customers into three subgroups. Key findings and recommendations are derived through a combination of SQL, Excel, and PowerPoint and both provide context into the analysis as well as executive summary of business insights.
 
 ## Business Objective
-To maximize the value of customers to the business through a personalization strategy tailored to each segment's preferences.
+To maximize the value of customers to the business through a personalization strategy tailored to each segment.
 
 ## Summary of Analysis
 I.   Import data
