@@ -26,7 +26,7 @@ VIII. Results
 
 
 ## Key Findings & Recommendations
-K-Means is a traditional clustering technique commonly used for segmentation data. Three clusters are identified based on the Dendrogram chart. Due to the number of clusters we run ten iterations using K-Means and identify three subgroups: 
+K-Means is a traditional clustering technique commonly used for segmentation data. Three clusters are identified based on the Dendrogram chart. Due to the number of clusters we run ten iterations using K-Means and identify the following three subgroups: 
 
 - Segment 0 (32.31%) - 100% Male and 0% Female Gender, average age of 32.05 years, and income of $64.39K (highest earning subgroup)
 
@@ -35,7 +35,7 @@ K-Means is a traditional clustering technique commonly used for segmentation dat
 - Segment 2 (45.95%) - 0% Male and 100% Female Gender, average age of 33.76 years, and income of $62.02K.
 
 
-To gain more clarity, we combine K-Means with Principal Component Analysis (PCA). Each of our Components explains for about a third of the variability in the data and as a rule of thumb we keep between 70% to 80% of the explained variance so we choose 2 Components. Then decide on a number of clusters based on K-Means with PCA model using the elbow method:
+To gain more clarity, we combine K-Means with Principal Component Analysis (PCA). Each of our PCA Components explains for about a third of the variability in the data. As a rule of thumb we keep between 70% to 80% of the explained variance so we choose two PCA Components. Then decide on a number of clusters based on K-Means with PCA model and identify the following three subgroups:
 
 - Segment 0 (36.7%) - 16.43% Male and 83.56% Female Gender, average age of 33.08 years, income of $39.68K, and spending score of 53.32.
 
@@ -44,4 +44,4 @@ To gain more clarity, we combine K-Means with Principal Component Analysis (PCA)
 - Segment 2 (37.9%) - 42.66% Male and 57.33% Female Gender, average age of 34.16 years, income of $83.45K (highest earning subgroup), and spending score of 52.49.
 
 
-Based on K-Means Clustering with PCA analysis - recommendations include: to tailor personalization strategy to each segment, prioritize customers with highest spending scores, and identify methods to upsell or cross sell across lower spending scores to maxime the value to the business.
+Based on K-Means Clustering with PCA analysis - recommendations to maximize customers value to the business include: tailoring personalization strategy to each segment, prioritizing customers with highest spending scores, and identifying methods to upsell or cross sell.
