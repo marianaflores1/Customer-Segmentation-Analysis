@@ -26,7 +26,7 @@ VIII. Results
 
 
 ## Key Findings & Recommendations
-K-Means is a traditional clustering technique commonly used for segmentation data. Three clusters are identified based on the Dendrogram chart. Due to the number of clusters we run ten iterations using K-Means: 
+K-Means is a traditional clustering technique commonly used for segmentation data. Three clusters are identified based on the Dendrogram chart. Due to the number of clusters we run ten iterations using K-Means and identify three subgroups: 
 
 - Segment 0 (32.31%) - 100% Male and 0% Female Gender, average age of 32.05 years, and income of $64.39K (highest earning subgroup)
 
