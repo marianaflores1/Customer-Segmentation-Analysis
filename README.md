@@ -26,16 +26,7 @@ VIII. Results
 
 
 ## Key Findings & Recommendations
-K-Means is a traditional clustering technique commonly used for segmentation data. Three clusters are identified based on the Dendrogram chart. Due to the number of clusters we run ten iterations using K-Means and identify the following three subgroups: 
-
-- Segment 0 (32.31%) - 100% Male and 0% Female Gender, average age of 32.05 years, and income of $64.39K (highest earning subgroup)
-
-- Segment 1 (22.72%) - 53.34% Male and 46.66% Female Gender (almost equal), average age of 58.87 years (oldest subgroup), and Income of $48.93K.
-
-- Segment 2 (45.95%) - 0% Male and 100% Female Gender, average age of 33.76 years, and income of $62.02K.
-
-
-To gain more clarity, we combine K-Means with Principal Component Analysis (PCA). Each of our PCA Components explains for about a third of the variability in the data. As a rule of thumb we keep between 70% to 80% of the explained variance so we choose two PCA Components. Then decide on a number of clusters based on K-Means with PCA model and identify the following three subgroups:
+K-Means is a traditional clustering technique commonly used for segmentation data. Three clusters are identified and due to the number of clusters we run ten iterations using K-Means then combine Principal Component Analysis (PCA) for additional clarify and identify the following three subgroups:
 
 - Segment 0 (36.7%) - 16.43% Male and 83.56% Female Gender, average age of 33.08 years, income of $39.68K, and spending score of 53.32.
 
