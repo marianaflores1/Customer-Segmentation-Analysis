@@ -30,7 +30,7 @@ K-Means is a traditional clustering technique commonly used for segmentation dat
 
 - Segment 0 (37%) - 16.43% Male and 83.56% Female Gender, average age of 33.08 years, income of $39.68K, and spending score of 53.32.
 
-- Segment 1 (25.3%) - 84.00% Male and 16.00% Female Gender, average age of 54.62 years (oldest subgroup), income of $53.64K, and spending score of 42.18.
+- Segment 1 (25%) - 84.00% Male and 16.00% Female Gender, average age of 54.62 years (oldest subgroup), income of $53.64K, and spending score of 42.18.
 
 - Segment 2 (37.9%) - 42.66% Male and 57.33% Female Gender, average age of 34.16 years, income of $83.45K (highest earning subgroup), and spending score of 52.49.
 
