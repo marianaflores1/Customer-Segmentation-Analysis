@@ -35,5 +35,5 @@ K-Means is a traditional clustering technique commonly used for segmentation dat
 - Segment 2 (37.9%) - 42.66% Male and 57.33% Female Gender, average age of 34.16 years, income of $83.45K (highest earning subgroup), and spending score of 52.49.
 
 
-Based on K-Means Clustering with PCA analysis - recommendations to maximize customers value to the business include: tailor offering to each subgroup and incorporate additional data to identify ways to upsell or cross-sell and maximize Spending Scores and Lifetime Value.
+Based on K-Means Clustering with PCA analysis - recommendations to maximize customers value to the business include: tailor offering to each subgroup and incorporate additional data to identify ways to upsell or cross-sell maximizing Spending Scores and Lifetime Value.
 
