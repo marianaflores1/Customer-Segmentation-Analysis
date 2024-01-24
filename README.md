@@ -28,7 +28,7 @@ VIII. Results
 ## Key Findings & Recommendations
 K-Means is a traditional clustering technique commonly used for segmentation data. Three clusters are identified and due to the number of clusters we run ten iterations using K-Means then combine Principal Component Analysis (PCA) for additional clarify and identify the following three subgroups:
 
-- Segment 0 (36.7%) - 16.43% Male and 83.56% Female Gender, average age of 33.08 years, income of $39.68K, and spending score of 53.32.
+- Segment 0 (37%) - 16.43% Male and 83.56% Female Gender, average age of 33.08 years, income of $39.68K, and spending score of 53.32.
 
 - Segment 1 (25.3%) - 84.00% Male and 16.00% Female Gender, average age of 54.62 years (oldest subgroup), income of $53.64K, and spending score of 42.18.
 
