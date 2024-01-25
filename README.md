@@ -5,26 +5,6 @@ This study examines customer data for the purpose of conducting a segmentation a
 ## Business Objective
 To maximize the value of customers to the business through a personalization strategy tailored to each segment.
 
-## Summary of Analysis
-I.   Import data
-
-II.  Explore data
-
-III. Identify Outliers
-
-IV.  Feature Engineering
-
-V.   Correlation Estimate
-
-VI.  Hierchical Clustering
-
-VI.  K-Means
-
-VII. K-Means with Principal Component Analysis (PCA)
-
-VIII. Results
-
-
 ## Key Findings & Recommendations
 K-Means is a traditional clustering technique commonly used for segmentation data. Three clusters are identified, due to the number of clusters we run ten iterations using K-Means then combine Principal Component Analysis (PCA) for additional clarity. The following three subgroups are identified from the analysis:
 
