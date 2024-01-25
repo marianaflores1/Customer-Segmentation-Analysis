@@ -26,7 +26,7 @@ VIII. Results
 
 
 ## Key Findings & Recommendations
-K-Means is a traditional clustering technique commonly used for segmentation data. Three clusters are identified, due to the number of clusters we run ten iterations using K-Means then combine Principal Component Analysis (PCA) for additional clarity. The follwing three subgroups are identified from the analysis:
+K-Means is a traditional clustering technique commonly used for segmentation data. Three clusters are identified, due to the number of clusters we run ten iterations using K-Means then combine Principal Component Analysis (PCA) for additional clarity. The following three subgroups are identified from the analysis:
 
 - Segment 1 (37%) - 16.43% Male and 83.56% Female gender, average age of 33.08 years, income of $39.68K, and spending score of 53.32.
 
